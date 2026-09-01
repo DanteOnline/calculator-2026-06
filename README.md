@@ -1,4 +1,4 @@
-# tl-2023-05-calculator
+# Calculator
 TL-CA calculator template
 
 ## Run calculator
