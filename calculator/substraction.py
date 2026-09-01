@@ -1,5 +1,5 @@
-"""substraction"""
+"""Вычитание"""
 
 def substraction(a, b):
-    """function for substraction"""
+    """Функция вычитания"""
     return a - b
